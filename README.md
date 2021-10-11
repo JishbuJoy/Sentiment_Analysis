@@ -13,4 +13,4 @@ This project has been deployed as web app using Streamlit.
   streamlit run Basic_SentimentAnalyzer.py
 ```
 
-  
+  ![Capture](https://user-images.githubusercontent.com/60316517/136810078-25918cd7-ae4e-4cdb-9cd0-2fdb14e775f1.JPG)
