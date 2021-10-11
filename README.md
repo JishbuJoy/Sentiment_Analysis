@@ -1,7 +1,7 @@
 
 # Sentiment Analysis
 
-This a basic sentiment Analysis project which uses the NLTK library in Python. We can analyse the opinions of users of a perticular product or service, which helps the customer to understand the quality of the product.
+This is a basic real-time sentiment Analysis project which uses the NLTK library in Python. We can analyse the opinions of users of a perticular product or service, which helps the customer to understand the quality of the product.
 
 
 ## Deployment
